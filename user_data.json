@@ -33,5 +33,12 @@
     "email": "abc@gmail.com",
     "name": "Aditya Kanikdaley",
     "picture": "https://cdn.wallpapersafari.com/57/67/LAFcEl.jpg"
+  },
+  {
+    "index": 5,
+    "about": "This is a text from JSON data file",
+    "email": "abc@gmail.com",
+    "name": "Aditya Kanikdaley",
+    "picture": "https://cdn.wallpapersafari.com/57/67/LAFcEl.jpg"
   }
 ]
