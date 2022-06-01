@@ -2,10 +2,10 @@
   {
     "index": 1,
     "title": "Airplanes",
-    "icon": "https://cdn.wallpapersafari.com/57/67/LAFcEl.jpg",
+    "icon": "assets/headLogo/airlines.png",
     "cards": [
       {
-        "path": "https://media.cntraveler.com/photos/607f3c487774091e06dd5d21/16:9/w_2560%2Cc_limit/Breeze%2520Airways_166655077_303814634409055_8038496796049085212_n.jpeg",
+        "path": "assets/airlines/air india.png",
         "name": "Air India",
         "sector": "Airlines",
         "headquarters": "New Delhi",
@@ -13,20 +13,20 @@
         "url": "https://bookme.airindia.in/AirIndiaB2C/Booking/Search/"
       },
       {
-        "path": "https://media.cntraveler.com/photos/607f3c487774091e06dd5d21/16:9/w_2560%2Cc_limit/Breeze%2520Airways_166655077_303814634409055_8038496796049085212_n.jpeg",
-        "name": "Air India",
+        "path": "assets/airlines/deccan air.png",
+        "name": "Deccan Charters",
         "sector": "Airlines",
-        "headquarters": "New Delhi",
-        "founded": "1932",
-        "url": "https://bookme.airindia.in/AirIndiaB2C/Booking/Search/"
+        "headquarters": "Bengaluru",
+        "founded": "1997",
+        "url": "http://www.deccanair.com/index-2.html"
       },
       {
-        "path": "https://media.cntraveler.com/photos/607f3c487774091e06dd5d21/16:9/w_2560%2Cc_limit/Breeze%2520Airways_166655077_303814634409055_8038496796049085212_n.jpeg",
-        "name": "Air India",
+        "path": "assets/airlines/goAir airlines.png",
+        "name": "GoAir Airlines",
         "sector": "Airlines",
-        "headquarters": "New Delhi",
-        "founded": "1932",
-        "url": "https://bookme.airindia.in/AirIndiaB2C/Booking/Search/"
+        "headquarters": "Mumbai",
+        "founded": "2005",
+        "url": "https://www.goair.in/"
       },
       {
         "path": "https://media.cntraveler.com/photos/607f3c487774091e06dd5d21/16:9/w_2560%2Cc_limit/Breeze%2520Airways_166655077_303814634409055_8038496796049085212_n.jpeg",
