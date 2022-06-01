@@ -1,0 +1,37 @@
+[
+  {
+    "index": 0,
+    "about": "This is a text from JSON data file",
+    "email": "abc@gmail.com",
+    "name": "Aditya Kanikdaley",
+    "picture": "https://cdn.wallpapersafari.com/57/67/LAFcEl.jpg"
+  },
+  {
+    "index": 1,
+    "about": "This is a text from JSON data file",
+    "email": "abc@gmail.com",
+    "name": "Aditya Kanikdaley",
+    "picture": "https://cdn.wallpapersafari.com/57/67/LAFcEl.jpg"
+  },
+  {
+    "index": 2,
+    "about": "This is a text from JSON data file",
+    "email": "abc@gmail.com",
+    "name": "Aditya Kanikdaley",
+    "picture": "https://cdn.wallpapersafari.com/57/67/LAFcEl.jpg"
+  },
+  {
+    "index": 3,
+    "about": "This is a text from JSON data file",
+    "email": "abc@gmail.com",
+    "name": "Aditya Kanikdaley",
+    "picture": "https://cdn.wallpapersafari.com/57/67/LAFcEl.jpg"
+  },
+  {
+    "index": 4,
+    "about": "This is a text from JSON data file",
+    "email": "abc@gmail.com",
+    "name": "Aditya Kanikdaley",
+    "picture": "https://cdn.wallpapersafari.com/57/67/LAFcEl.jpg"
+  }
+]
